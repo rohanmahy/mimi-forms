@@ -9,20 +9,20 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "Applications and Real-Time"
+workgroup: "More Instant Messaging Interoperability"
 keyword:
  - MIMI forms
  - polls
  - polling
  - doodle
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "More Instant Messaging Interoperability"
+  type: "Working Group"
+  mail: "mimi@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/mimi/"
+  github: "rohanmahy/mimi-forms"
+  latest: "https://rohanmahy.github.io/mimi-forms/draft-mahy-mimi-forms.html"
 
 author:
  -
